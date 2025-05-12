@@ -20,8 +20,8 @@ A simple command-line To-Do list application written in Rust. This app allows us
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/rust-todo-cli.git
-   cd rust-todo-cli
+   git clone https://github.com/your-username/rust-todo-app.git
+   cd rust-todo-app
     ```
 
 2. Run the app using `cargo`:
